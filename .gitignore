@@ -32,3 +32,6 @@ complex4/complex4.s
 
 log_add/log_add
 log_add/log_add.s
+
+resample/resample
+resample/resample.s
